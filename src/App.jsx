@@ -127,6 +127,55 @@ const BASE_CHARACTERS = [
     description:
       "Buzz avanza siempre al frente con disciplina espacial y un lema inspirador.",
     keywords: ["Audaz", "Disciplinado"]
+  },
+  {
+    name: "Jengibre",
+    title: "Caballero crujiente",
+    description:
+      "Jengibre defiende a sus amigos de Muy Muy Lejano con ingenio y risas aun en medio del caos.",
+    keywords: ["Tenaz", "Ocurrente"]
+  },
+  {
+    name: "Tiana",
+    title: "Visionaria culinaria",
+    description:
+      "Tiana combina disciplina y suenos grandes mientras impulsa a todos a trabajar por lo que aman.",
+    keywords: ["Trabajadora", "Inspiradora"]
+  },
+  {
+    name: "Cenicienta",
+    title: "Sonadora perseverante",
+    description:
+      "Cenicienta mantiene esperanza y elegancia incluso bajo presion y contagia calma al equipo.",
+    keywords: ["Resiliente", "Amable"]
+  },
+  {
+    name: "Blancanieves",
+    title: "Aliada armoniosa",
+    description:
+      "Blancanieves equilibra talentos muy distintos con alegria y crea redes de apoyo confiables.",
+    keywords: ["Empatica", "Dulce"]
+  },
+  {
+    name: "Jasmine",
+    title: "Princesa visionaria",
+    description:
+      "Jasmine rompe limitaciones tradicionales para abrir caminos que dan libertad a quienes la rodean.",
+    keywords: ["Valiente", "Curiosa"]
+  },
+  {
+    name: "Pocahontas",
+    title: "Mensajera de armonia",
+    description:
+      "Pocahontas escucha a la naturaleza y une perspectivas diferentes con serenidad valiente.",
+    keywords: ["Sabia", "Diplomatica"]
+  },
+  {
+    name: "Merida",
+    title: "Arquera indomable",
+    description:
+      "Merida impulsa a cuestionar tradiciones y a seguir el propio camino con valentia directa.",
+    keywords: ["Independiente", "Audaz"]
   }
 ];
 
